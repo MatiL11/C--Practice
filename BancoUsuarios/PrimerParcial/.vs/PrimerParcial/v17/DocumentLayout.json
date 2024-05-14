@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|c:\\users\\navegador\\desktop\\coronelmatiasprimerparcial\\primerparcial\\primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|solutionrelative:primerparcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\primerparcial\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|solutionrelative:primerparcial\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\primerparcial\\clientepersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|solutionrelative:primerparcial\\clientepersonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\primerparcial\\clienteempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|solutionrelative:primerparcial\\clienteempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\primerparcial\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A8EE0B-5721-4738-9FF5-D1F67FFB8A45}|PrimerParcial\\PrimerParcial.csproj|solutionrelative:primerparcial\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\Repositorio.cs",
+              "RelativeDocumentMoniker": "PrimerParcial\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\Repositorio.cs",
+              "RelativeToolTip": "PrimerParcial\\Repositorio.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:02:21.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\ClienteEmpresa.cs",
+              "RelativeDocumentMoniker": "PrimerParcial\\ClienteEmpresa.cs",
+              "ToolTip": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\ClienteEmpresa.cs",
+              "RelativeToolTip": "PrimerParcial\\ClienteEmpresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:59:39.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientePersonal.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\ClientePersonal.cs",
+              "RelativeDocumentMoniker": "PrimerParcial\\ClientePersonal.cs",
+              "ToolTip": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\ClientePersonal.cs",
+              "RelativeToolTip": "PrimerParcial\\ClientePersonal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:58:35.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\Cliente.cs",
+              "RelativeDocumentMoniker": "PrimerParcial\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\Cliente.cs",
+              "RelativeToolTip": "PrimerParcial\\Cliente.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:57:30.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\Program.cs",
+              "RelativeDocumentMoniker": "PrimerParcial\\Program.cs",
+              "ToolTip": "C:\\Users\\Navegador\\Desktop\\CoronelMatiasPrimerParcial\\PrimerParcial\\PrimerParcial\\Program.cs",
+              "RelativeToolTip": "PrimerParcial\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:56:26.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

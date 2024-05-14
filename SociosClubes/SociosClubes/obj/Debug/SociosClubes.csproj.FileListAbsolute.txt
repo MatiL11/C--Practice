@@ -1,0 +1,10 @@
+D:\Facultad\POO\SociosClubes\SociosClubes\bin\Debug\SociosClubes.exe.config
+D:\Facultad\POO\SociosClubes\SociosClubes\bin\Debug\SociosClubes.exe
+D:\Facultad\POO\SociosClubes\SociosClubes\bin\Debug\SociosClubes.pdb
+D:\Facultad\POO\SociosClubes\SociosClubes\obj\Debug\SociosClubes.csproj.AssemblyReference.cache
+D:\Facultad\POO\SociosClubes\SociosClubes\obj\Debug\SociosClubes.Form1.resources
+D:\Facultad\POO\SociosClubes\SociosClubes\obj\Debug\SociosClubes.Properties.Resources.resources
+D:\Facultad\POO\SociosClubes\SociosClubes\obj\Debug\SociosClubes.csproj.GenerateResource.cache
+D:\Facultad\POO\SociosClubes\SociosClubes\obj\Debug\SociosClubes.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\SociosClubes\SociosClubes\obj\Debug\SociosClubes.exe
+D:\Facultad\POO\SociosClubes\SociosClubes\obj\Debug\SociosClubes.pdb
