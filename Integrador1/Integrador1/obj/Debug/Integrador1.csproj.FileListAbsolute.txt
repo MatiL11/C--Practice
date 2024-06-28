@@ -1,0 +1,16 @@
+D:\Facultad\POO\Integrador1\Integrador1\bin\Debug\Integrador1.exe.config
+D:\Facultad\POO\Integrador1\Integrador1\bin\Debug\Integrador1.exe
+D:\Facultad\POO\Integrador1\Integrador1\bin\Debug\Integrador1.pdb
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.csproj.AssemblyReference.cache
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.Form1.resources
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.Properties.Resources.resources
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.csproj.GenerateResource.cache
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.exe
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.pdb
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.FormAutos.resources
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.FormAgregarAuto.resources
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.FormAgregarPersona.resources
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.FormModificarPersona.resources
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.FormModificarAuto.resources
+D:\Facultad\POO\Integrador1\Integrador1\obj\Debug\Integrador1.FormAsignarAuto.resources

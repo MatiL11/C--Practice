@@ -1,0 +1,15 @@
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.exe
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.deps.json
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.runtimeconfig.json
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.dll
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\bin\Debug\net8.0\Ejercicio1.pdb
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.AssemblyInfo.cs
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.sourcelink.json
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.dll
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\refint\Ejercicio1.dll
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.pdb
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\Ejercicio1.genruntimeconfig.cache
+D:\Facultad\POO\Clase11\Ejercicio1\Ejercicio1\obj\Debug\net8.0\ref\Ejercicio1.dll
